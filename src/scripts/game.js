@@ -1,4 +1,4 @@
-import * as THREE from 'three';
+import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.176.0/build/three.module.js'; 
 import { AssetManager } from './assets/assetManager.js';
 import { CameraManager } from './camera.js';
 import { InputManager } from './input.js';
