@@ -1,4 +1,4 @@
-import * as THREE from 'three';
+import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.176.0/build/three.module.js'; 
 
 export class VehicleGraphNode extends THREE.Object3D {
   constructor(x, y) {

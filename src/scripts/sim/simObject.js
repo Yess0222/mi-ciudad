@@ -1,4 +1,4 @@
-import * as THREE from 'three';
+import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.176.0/build/three.module.js'; 
 import { SimModule } from './buildings/modules/simModule.js';
 
 const SELECTED_COLOR = 0xaaaa55;
