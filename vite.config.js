@@ -1,6 +1,6 @@
 export default {
     // Set the base directory for GitHub pages
-    base: '/mi-pequeña-ciudad/',
+    base: '/mi-ciudad/',
   
     // Set the project root directory (relative to the config file)
     root: './src',
