@@ -1,4 +1,4 @@
-import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.176.0/build/three.module.js'; 
+import * as THREE from 'three';
 import { Building } from '../building.js';
 import { BuildingType } from '../buildingType.js';
 

@@ -59,10 +59,10 @@ export class GameUI {
   togglePause() {
     this.isPaused = !this.isPaused;
     if (this.isPaused) {
-      document.getElementById('pause-button-icon').src = playIconUrl;
+      document.getElementById('play-color.png').src = playIconUrl;
       document.getElementById('paused-text').style.visibility = 'visible';
     } else {
-      document.getElementById('pause-button-icon').src = pauseIconUrl;
+      document.getElementById('pause-color.png').src = pauseIconUrl;
       document.getElementById('paused-text').style.visibility = 'hidden';
     }
   }
