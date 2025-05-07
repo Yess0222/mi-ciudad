@@ -1,7 +1,7 @@
 @font-face {
-  font-family: 'Bebas';
-  src: url('./public/fonts/Bebas-Regular.otf') format('opentype');
-  }
+  font-family: "Bebas";
+  src: url("/fonts/Bebas-Regular.otf") format("opentype");
+}
   
   html, body {
     height: 100%;
